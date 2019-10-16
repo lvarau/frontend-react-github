@@ -89,6 +89,7 @@ export const IssueList = styled.ul`
                     font-weight: 600;
                     height: 20px;
                     padding: 3px 4px;
+                    margin-left: 10px;
                 }
             }
 
